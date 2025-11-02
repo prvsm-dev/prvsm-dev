@@ -1,4 +1,4 @@
-For practice, tryna get good with webdev stuff
+For practice and projects, tryna get good at webdev
 
 <!---
 prvsm-dev/prvsm-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
